@@ -3,7 +3,7 @@
 ## if the matrix has a higher number of elements,computation time increases
 ## hence it is better to cache the inverse of the matrix
 ## well new to git so didnt commit earlier changes
-## took me sometime to get a hang of this
+## took me sometime to get a hang of this !!
 
 ## makeCacheMatrix is used to create a matrix
 ## set(),get() to set and obtain matrix values
